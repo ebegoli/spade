@@ -32,7 +32,7 @@
     <section id="spade.bdi.kb">
         <title>The Knowledge Base</title>       
         
-        <para>Each agent has a Knowledge Base where it stores its acquired knowledge items. The technology to store these items can be selected from a set of different prolog engines: <literal>SWI-Prolog, XSB, Flora2, Eclipse</literal> and <literal>SPARQL</literal>. SPADE does also support an internal Prolog engine, which is less powerful but has no external requirements. This is the <literal>SpadeKB</literal> engine, wich supports first-order logic.
+        <para>Each agent has a Knowledge Base where it stores its acquired knowledge items. The technology to store these items can be selected from a set of different prolog engines: <literal>SWI-Prolog, XSB, Flora2, Eclipse</literal> and <literal>SPARQL</literal>. SPADE does also support an internal Prolog engine, which is less powerful but has no external requirements. This is the <literal>SpadeKB</literal> engine, which supports first-order logic.
         </para>
         <para>Accessing the KB is really simple. As said, you can add knowledge, delete it, or make queries.</para>
 
